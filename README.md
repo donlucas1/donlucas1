@@ -8,5 +8,5 @@
     
 ## Trabajos realizados en el marco  de estudio de Full Stack Developer
 #### EGG
-#### EggPOO6-
+#### EggPOO6
 #### Egg SQL
