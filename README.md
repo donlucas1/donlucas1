@@ -5,7 +5,7 @@
 
 ### Repositorio de Trabajos
 - Repositorio de Trabajos
-    - [Repositorio de Trabajos](donlucas1/Grupo10)
+    - [Repositorio de Trabajos](/Grupo10)
     
 ## Trabajos realizados en el marco  de estudio de Full Stack Developer
 ### EGG
