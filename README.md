@@ -5,7 +5,7 @@
 
 ### Repositorio de Trabajos
 - Repositorio de Trabajos
-    - [Repositorio de Trabajos](/ayvd/Grupo_10_AyVD_Entregable_Parte_1.ipynb)
+    - [Repositorio de Trabajos](donlucas1/Grupo10)
     
 ## Trabajos realizados en el marco  de estudio de Full Stack Developer
 ### EGG
