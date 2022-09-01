@@ -1,2 +1,14 @@
-En este repo podras encontrar bajo el nombre Egg ejercicios realizados en el marco del curso en Fullstack de Egg Education. https://eggeducacion.com/es-AR/
-Por otro lado, bajo el nombre de Grupo 10 encontraras ejercicios realizados en la diplomatura en Cs de datos de la UNC. 
+# REPOSITORIO PERSONAL y de trabajos
+
+
+## Diplomatura Ciencia de datos dictada por la Universidad Nacional de Córdoba
+
+### Repositorio de Trabajos
+- Repositorio de Trabajos
+    - [Repositorio de Trabajos](/ayvd/Grupo_10_AyVD_Entregable_Parte_1.ipynb)
+    
+## Trabajos realizados en el marco  de estudio de Full Stack Developer
+### EGG
+- Ejercicios
+    - [Trabajo Práctico](/eycd/Grupo_10_EyCD_Entregable_Parte_1_y_2.ipynb)
+
