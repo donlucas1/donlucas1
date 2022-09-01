@@ -10,5 +10,5 @@
 ## Trabajos realizados en el marco  de estudio de Full Stack Developer
 ### EGG
 - Ejercicios
-    - [Trabajo Práctico](/eycd/Grupo_10_EyCD_Entregable_Parte_1_y_2.ipynb)
+    - [Trabajo Práctico](/EggPOO6.git)
 
